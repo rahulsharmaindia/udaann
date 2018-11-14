@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* org.glassfish.jersey.archetypes.jersey_heroku_webapp.heroku.Main
